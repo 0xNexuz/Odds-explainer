@@ -1,0 +1,5 @@
+{
+  "name": "OddsExplainer",
+  "description": "An Insight Engine for Prediction Markets that uses Gemini AI and real-time search to explain the 'Why' behind the odds.",
+  "requestFramePermissions": []
+}
